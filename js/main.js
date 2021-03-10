@@ -3,5 +3,5 @@ let user = {
     lastName: "Beyatli",
 };
 
-console.log(user.firsrName);
-console.log(user.lastname);
+console.log(user.firstName);
+console.log(user.lastName);
